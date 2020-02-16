@@ -6,7 +6,8 @@ namespace VSProject1
     {
         static void Main(string[] args)
         {
-            first try to 
+            Console.WriteLine("first try to ");
+            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
         }
     }
